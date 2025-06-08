@@ -24,3 +24,13 @@ I completed the Tata Data Visualisation job simulation through Forage, where I a
       <img src="ForageProject_P2.png" style="max-height: 300px; width: auto;" />
     </td>
   </tr>
+  <table style="width: 100%;">
+  <!-- Row 1: Images -->
+  <tr>
+    <td align="center" valign="top" style="width: 50%;">
+      <img src="ForageProject_P3.png" style="max-height: 300px; width: auto;" />
+    </td>
+    <td align="center" valign="top" style="width: 50%;">
+      <img src="ForageProject_P4.png" style="max-height: 300px; width: auto;" />
+    </td>
+  </tr>
