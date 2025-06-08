@@ -11,4 +11,6 @@ I completed the Tata Data Visualisation job simulation through Forage, where I a
 - <b>Tableau</b> 
 
 
-<br><br>
+<br>
+
+<h2>Visualizations Created:</h2>
