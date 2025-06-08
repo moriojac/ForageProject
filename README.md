@@ -34,3 +34,10 @@ I completed the Tata Data Visualisation job simulation through Forage, where I a
       <img src="ForageProject_P4.png" style="max-height: 300px; width: auto;" />
     </td>
   </tr>
+</table>
+<br>
+<h2>Certificate:</h2>
+ <img src="Forage_Certificate.png" style="max-height: 300px; width: auto;" />
+
+
+  
