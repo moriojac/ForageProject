@@ -1,4 +1,4 @@
-<h1>Forage Job Simulation: Data Visualisation - Empowering Business with Effective Insights</h1>
+<h1>Forage Job Simulation: Empowering Business with Effective Insights</h1>
 
 
 <h2>Description</h2>
