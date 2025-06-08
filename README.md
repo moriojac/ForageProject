@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Completed a job simulation  
+I completed the Tata Data Visualisation job simulation through Forage, where I acted as a data consultant tasked with delivering insights to executive stakeholders. The experience involved cleaning and analyzing sales data, identifying seasonal trends, top customers, and high-potential international markets. I created a clear, actionable dashboard and presented findings in a concise, business-focused manner. This project sharpened my skills in data storytelling, Tableau, and executive communication while reinforcing the value of aligning visuals with decision-making needs. 
 <br />
 
 
